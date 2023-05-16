@@ -28,7 +28,6 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![React Router](https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
 ![React Testin Library](https://img.shields.io/badge/testing%20library-0D1117?style=for-the-badge&logo=testing-library&logoColor=red)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
